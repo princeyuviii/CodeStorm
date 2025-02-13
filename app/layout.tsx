@@ -8,7 +8,7 @@ const spaceGrotesk = Space_Grotesk({ subsets: ["latin"], variable: "--font-space
 
 export const metadata: Metadata = {
   title: "MU CodeStorm",
-  description: "Join us for an exciting 36-hour hackathon event at Mandsaur University!",
+  description: "MU CodeStorm is an 36 hours hackathon at Mandsaur University",
 }
 
 export default function RootLayout({
