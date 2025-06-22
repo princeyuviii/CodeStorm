@@ -29,9 +29,7 @@ export default function Footer() {
         <div className="mt-8 text-center text-sm text-gray-400">
           &copy; 2025 MU CodeStorm. All rights reserved.
         </div>
-        <div className="mt-8 text-center text-sm text-gray-400">
-          Made with ❤️ by <a href="https://github.com/iamkavy47" className="bg-gradient-to-r from-blue-400 to-purple-600 text-transparent bg-clip-text">Kavy Porwal</a>.
-        </div>
+        
       </div>
     </footer>
   )
